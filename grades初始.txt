@@ -1,0 +1,79 @@
+[
+    {
+        "semester": "2022-2023学年,第1学期",
+        "courses": [
+            {
+                "course_info": {
+                    "course_name": "信息安全导论",
+                    "course_number": "08064140",
+                    "course_category": "基础必修课",
+                    "course_type": "必修",
+                    "credit": 1,
+                    "class_hour": 18,
+                    "test_date": "2022-12-26",
+                    "grade_type": "百分制",
+                    "exam_type": "笔试",
+                    "teaching_unit": "网络空间安全学院"
+                },
+                "student_info": [
+                    {
+                        "name": "张三",
+                        "id": "2022333333",
+                        "score": 0.0,
+                        "major": "是",
+                        "gpa": 0.0,
+                        "retake": "否",
+                        "pass_or_not": "否",
+                        "special_reasons": "缓考"
+                    },
+                    {
+                        "name": "李四",
+                        "id": "2022444444",
+                        "score": 95.0,
+                        "major": "是",
+                        "gpa": 4.5,
+                        "retake": "否",
+                        "pass_or_not": "是",
+                        "special_reasons": ""
+                    },
+                    {
+                        "name": "王五",
+                        "id": "2022555555",
+                        "score": 85.0,
+                        "major": "是",
+                        "gpa": 3.5,
+                        "retake": "是",
+                        "pass_or_not": "是",
+                        "special_reasons": ""
+                    }
+                ]
+            },
+            {
+                "course_info": {
+                    "course_name": "军事理论",
+                    "course_number": "01041018",
+                    "course_category": "通识教育必修课",
+                    "course_type": "必修",
+                    "credit": 2,
+                    "class_hour": 36,
+                    "test_date": "2022-12-26",
+                    "grade_type": "百分制",
+                    "exam_type": "笔试",
+                    "teaching_unit": "教务处"
+                },
+                "student_info": [
+                    {
+                        "name": "张三",
+                        "id": "2022333333",
+                        "score": 90.0,
+                        "major": "是",
+                        "gpa": 4.0,
+                        "retake": "否",
+                        "pass_or_not": "是",
+                        "special_reasons": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
